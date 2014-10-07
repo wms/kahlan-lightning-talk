@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"psr-4": {
+			"demo\\": "src/"
+		}
+	},
+	"minimum-stability": "dev",
+	"require": {
+		"crysalead/kahlan": "dev-master"
+	}
+}
